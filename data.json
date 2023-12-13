@@ -1,0 +1,75 @@
+{
+    "message_id": 3380,
+    "from": {
+        "id": 1073079396,
+        "is_bot": false,
+        "first_name": "Abbos",
+        "last_name": "Ismoilov",
+        "username": "web_dev_17",
+        "language_code": "en"
+    },
+    "chat": {
+        "id": 1073079396,
+        "first_name": "Abbos",
+        "last_name": "Ismoilov",
+        "username": "web_dev_17",
+        "type": "private"
+    },
+    "date": 1696785919,
+    "text": "/language",
+    "entities": [
+        {
+            "type": "bot_command",
+            "offset": 0,
+            "length": 9
+        }
+    ]
+}
+
+
+
+{
+    "id": "4608840914195604898",
+    "from": {
+        "id": 1073079396,
+        "is_bot": false,
+        "first_name": "Abbos",
+        "last_name": "Ismoilov",
+        "username": "web_dev_17",
+        "language_code": "en"
+    },
+    "message": {
+        "message_id": 3381,
+        "from": {
+            "id": 6631394109,
+            "is_bot": true,
+            "first_name": "Evos",
+            "username": "evos_tashkent_bot"
+        },
+        "chat": {
+            "id": 1073079396,
+            "first_name": "Abbos",
+            "last_name": "Ismoilov",
+            "username": "web_dev_17",
+            "type": "private"
+        },
+        "date": 1696785920,
+        "text": "Tilni tanlashingiz mumkin",
+        "reply_markup": {
+            "inline_keyboard": [
+                [
+                    {
+                        "text": "Uzbek",
+                        "callback_data": "uzb"
+                    },
+                    {
+                        "text": "English",
+                        "callback_data": "eng"
+                    }
+                ]
+            ]
+        }
+    },
+    "chat_instance": "7496296448375691846",
+    "data": "eng"
+}
